@@ -24,9 +24,6 @@ Focused on Studyng C#/.Net for learn more about my main language and also a bit 
 Creating some project in C#/.Net on the way.
 
 ## 🖱️ Projects
-• [TCC](https://github.com/wluisdev/TCC): TCC Project -> Complementary Certificate and Time Management System - conclusion at year of 2020. <br>
-• [CLoneInsta](https://github.com/wluisdev/CloneInsta): Practical test for JavaScript of cloning Instagram. <br>
-• [Voting-System](https://github.com/wluisdev/ENQUETESISTEMv1.0): Practical test Website in PHP for Voting System.
 • C#/.NET Project Loading...
 
 ## 🌐 Social
